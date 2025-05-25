@@ -12,7 +12,7 @@ A simple and fun Joke Teller app that fetches programming jokes and speaks them 
 ---
 
 ## 📸 Screenshot
-![image](https://github.com/user-attachments/assets/883fd77f-1c0b-4f0a-9bff-15c3b779f888)
+![image](https://github.com/user-attachments/assets/ae16713c-f1ee-46cf-a5e4-c72e78444821)
 
 ---
 
