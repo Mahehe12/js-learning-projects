@@ -14,9 +14,7 @@ A simple, dynamic photo gallery that loads random images from the Unsplash API w
 ---
 
 ## 📸 Preview
-
-![image](https://github.com/user-attachments/assets/d4917d31-fd2b-4208-87c1-f738e0a723ac)
-
+![image](https://github.com/user-attachments/assets/2c04cd6b-fcf3-4ea5-b668-02cd524fb1d1)
 
 ---
 
