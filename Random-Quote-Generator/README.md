@@ -23,7 +23,7 @@ A clean and responsive web application that fetches and displays random inspirat
 
 ## 📸 Preview
 
-![Quote Generator Screenshot](https://github.com/user-attachments/assets/b3d38af7-a6ee-459c-b54d-347c0e952c22)
+![Quote Generator Screenshot](https://github.com/user-attachments/assets/434b05d6-3968-4f85-842b-2df588014b73)
 
 ---
 
